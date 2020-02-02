@@ -1,0 +1,7 @@
+
+public class Application {
+ public static void main(String[] args) {
+ int a = 1456;
+ System.out.print((a/10)%10);
+}
+}

@@ -1,0 +1,9 @@
+
+public class Encrypter{
+   char encription(int n) {
+	int fourth = n%10;
+   int third = (n/10)%10;
+   int second = (n/100)%10;
+   
+}
+}

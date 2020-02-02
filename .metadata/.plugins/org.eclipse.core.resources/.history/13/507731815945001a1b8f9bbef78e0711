@@ -1,0 +1,6 @@
+
+public class Decrypter {
+	public static void decryption(int n) {
+		
+	}
+}
